@@ -17,3 +17,7 @@ Enjoy it!!!
 [Day-9 [Hard]](https://github.com/canhminhdo/dailycodingproblem/blob/master/day-9/problem.ipynb) (_Not Yet_)<br/>
 [Day-10 [Medium]](https://github.com/canhminhdo/dailycodingproblem/blob/master/day-10/problem.ipynb)<br/>
 [Day-11 [Medium]](https://github.com/canhminhdo/dailycodingproblem/blob/master/day-11/problem.ipynb)<br/>
+[Day-12 [Hard]](https://github.com/canhminhdo/dailycodingproblem/blob/master/day-12/problem.ipynb) (_Not Yet_)<br/>
+[Day-13 [Hard]](https://github.com/canhminhdo/dailycodingproblem/blob/master/day-13/problem.ipynb) (_Not Yet_)<br/>
+[Day-14 [Hard]](https://github.com/canhminhdo/dailycodingproblem/blob/master/day-14/problem.ipynb) (_Not Yet_)<br/>
+[Day-15 [Medium]](https://github.com/canhminhdo/dailycodingproblem/blob/master/day-15/problem.ipynb) (_Not Yet_)<br/>
